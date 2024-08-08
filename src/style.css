@@ -1,1 +1,13 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+.body{
+    padding: 20%;
+justify-content: center;
+text-align: center;
+padding-top: 15%;
+}
+.body h1{
+font-size: 60px;}
+.body p{
+font-size: 45px;}
+.textbox{
+    background-color: rgba(129, 129, 129, 0.527);
+}
